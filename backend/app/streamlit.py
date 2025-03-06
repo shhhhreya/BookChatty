@@ -4,10 +4,10 @@ import requests
 # FastAPI Backend URL
 API_URL = "http://127.0.0.1:8000"  # Change if hosting on cloud
 
-st.set_page_config(page_title="Book Q&A 📖", page_icon="📚")
+st.set_page_config(page_title="BookChatty", page_icon="📚")
 
 # Title
-st.title("📖 AI-Powered Book Q&A")
+st.title("BookChatty : AI-Powered Book Q&A")
 
 # Upload PDF Section
 st.header("📂 Upload a Book (PDF)")
