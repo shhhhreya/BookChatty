@@ -1,0 +1,5 @@
+frontend/
+backend/db
+backend/venv
+test_frontend/
+.env
